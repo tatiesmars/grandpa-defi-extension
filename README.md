@@ -1,4 +1,4 @@
-# Grandpa DeFi Chrome Extension (Distribution)
+# Grandpa DeFi Chrome Extension
 
 This repository contains compiled builds of the Grandpa DeFi browser extension.
 It does not contain source code.
