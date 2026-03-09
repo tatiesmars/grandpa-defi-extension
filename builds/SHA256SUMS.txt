@@ -1,3 +1,3 @@
+00c78ebc4ea52882e1bad6e464bc6252d94b8539c08b3a55606d159cef8b1994  grandpa-defi-extension-2026-03-09-1.zip
 b2110f75f5053c16dda6066cba85277909096909abb4d8c02f4717f2be05b74a  grandpa-defi-extension-v0.0.0-rc0.zip
-0112f09ce9bbece2b33026225a520006e5d9f1118192aa2e1f140bf2bfba7188  grandpa-defi-multi-extension-2026-03-08-1.zip
 fc86bf3db6340cd768e7a55b29f6d3a77e38fd0276736fad3a062573ed23f3fd  grandpa-defi-multi-extension-2026-03-08-2.zip
